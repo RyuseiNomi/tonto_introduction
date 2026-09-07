@@ -16,15 +16,6 @@ export const works = [
   {
     id: nanoid(),
     image: {
-      webp: "/assets/works/kokon_website.webp",
-      others: "/assets/works/kokon_website.jpeg"
-    },
-    title: "ここんのかくれが",
-    url: "https://kiyubi-kokon.netlify.app/",
-  },
-  {
-    id: nanoid(),
-    image: {
       webp: "/assets/works/kayano_au.webp",
       others: "/assets/works/kayano_au.png"
     },
